@@ -20,4 +20,4 @@
   - <code>fun1.m</code>：教程中示例函数的定义。
   - <code>circle.m</code>：教程中示例函数的定义。
   - <code>./data</code>：教程示例所需文件。
-  - <code>./data_hw<code>：练习题所需文件。
+  - <code>./data_hw</code>：练习题所需文件。
