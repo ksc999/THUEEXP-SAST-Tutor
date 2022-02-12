@@ -7,10 +7,10 @@ class Student {
   //int getID1() const  { return ID; }
   static int getID2();
 private:
-  static int ID;       
+  static int ID;       // 此处是声明而非定义
   int stuID;
 };
-int Student::ID{ 0 };  // 必须在类外和函数外赋初值！（C++17作出了调整，感兴趣可自行查阅有关资料）
+int Student::ID{ 0 };  // 静态成员变量必须在类外和函数外定义（此时如果不赋初值会自动赋初值）（C++17作出了调整，感兴趣可自行查阅有关资料）
 int Student::getID2(){ // 静态成员函数只能调用静态成员变量
     return ID++; 
 }
