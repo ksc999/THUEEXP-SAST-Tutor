@@ -3,8 +3,8 @@
 ---
 
 - <code>样例/</code>：仅仅为了说明该如何出C++的教程
-- <code>第一讲/</code>：
-- <code>第二讲/</code>：
+- <code>第一讲/</code>：C++多文件组织简介，C++ Google Style简介
+- <code>第二讲/</code>：C++指针用法总结，C++智能指针简介
 - <code>第三讲/</code>：
 - <code>第四讲/</code>：
 - <code>第五讲/</code>：
