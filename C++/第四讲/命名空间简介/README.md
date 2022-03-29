@@ -1,10 +1,9 @@
-# 第四讲
+# 第4讲第2节   命名空间简介
 
 ## 简介
 
-- 内容主题：Static and Namespace
+- 内容主题：Namespace
 - 你将学到什么：
-  - static修饰符的功能
   - 命名空间namespace的相关知识
 
 ---
@@ -12,21 +11,11 @@
 ## 文件清单
 
 - `docs/`
-  
-  - Static and Namespace.md【本讲教程】
+  - Namespace.md【本讲教程】
 - `imgs/`
   
   - 无图片（只是为了统一格式）
 - `codes/`
-
-  static部分
-
-  - zoo.cpp
-  - 1.cpp**与**2.cpp（linkage文件夹中）
-  - mem_fun.cpp
-
-  namespace部分
-
   - namespace1.cpp
   - aliases.cpp
   - add.h、subtract.h、math.cpp和main.cpp（多文件namespace文件夹中）
