@@ -7,3 +7,10 @@
 
 * `\docs`：包含教程文档“继承与多态总结.md”。
 * `\codes`：包含示例代码`pointer_reference_to_base.cpp`,`virtual_destructor.cpp`,`virtual_func_abcd.cpp`,`virtual_func_animal.cpp`。
+
+### 参考资料
+
+- 清华大学计算机系姚海龙老师程序设计基础课件
+- 《C++ Primer》（第五版）
+- [learn Cpp](https://www.learncpp.com/)
+  - Chapter 18.1-18.4
